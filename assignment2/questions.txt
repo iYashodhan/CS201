@@ -1,0 +1,43 @@
+awesome source: https://www.geeksforgeeks.org/linked-list-set-1-introduction/?ref=lbp
+
+
+
+Singly-linked list:
+1. Write a pogram (WAP) to create the linked list of n nodes.
+
+2. WAP to insert a node in the linked list created in (1):
+    a. at the beginning b. at the end c. anywhere between first and last node given
+    by the user.
+
+
+3. WAP to delete a node in the linked list created in (1):
+    a. at the beginning b. at the end c. anywhere between first and last node given
+    by the user.
+
+
+4. WAP to revere the linked list created in (1).
+
+
+5. WAP to find the nth node from the last node of the linked list.
+
+
+6. Given two sorted linked lists of n elements each, WAP for the printing common
+elements of them.
+
+
+7. Consider two linked list both of size n nodes. Both the list contain integers in
+ascending order. WAP to merge these two lists so that final list should also be in
+ascending order. The final list should contain all distinct element.
+
+
+8. Given a linked list of n noded with even and odd numbers, WAP for making
+changes to the list in such a way that all even numbers appear at the beginning.
+
+
+9. We are given a pointer to a node (not the last node) in a linked list. Delete
+that node from the linked list.
+
+
+10. Reverse the linked list in pairs. If you have a linked list that holds 1 → 2 → 3→
+4→ X, then after the function has been called the linked list would hold 2 → 1 →
+4→3 → X.

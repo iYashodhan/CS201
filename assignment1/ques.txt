@@ -1,0 +1,84 @@
+1. Consider that you are given with a data base of employee records (at least 5). Each
+    employee record having following information –
+    Emp_id(integer) Emp_name(string) Emp_city (string) Assume that
+    Emp_id is unique.
+    {Use the structure for creating data base}
+    A) Write a function to create a database of five employees. Here, data
+    should me taken from the user.
+    B) Write a function to find out the employee record from this data base on
+    the base of Emp_id.
+    C) Write a function to sort the employee records on the base of
+    Emp_id. D) Write a function to count the number of employees in data
+    base.
+    E) d. Write a function to add 5 more records in data base.
+
+2. WAP to find the number of occurences of each element of an array in that
+array.
+
+3. WAP to find the nth element of the fibonacci series using recursion.
+
+4. WAP to reverse an array using pointers.
+
+5. Write a program that will read a line and delete from it all occurrences of a
+particular word using pointers.
+
+6. Write a program using functions to define a structure to describe a Book with
+attributes such as title, author, no. of pages, price, number of sold copies, total
+amount of sold copies etc. Declare an array of book and do the following
+operations:
+    a. Reading book array and populating values in it.
+    b. Printing book array and displaying each attribute of each book in the
+    array. c. Find and print details of a book with maximum pages
+    d. Find and print details of a book with minimum cost.
+    e. Compute and store total amount of money earned by selling the books.
+
+7. Write a C program to read the full name of the customers and their telephone
+numbers. Full name includes Surname followed by first name and then the middle
+name. Reconstruct the customer's full names with surname first followed by comma
+(,) and initials of the first and middle names. Display this customer list along with
+their telephone no.
+    E.g Ghokle Suraj Ram 9876512345
+    should be written as
+    Ghokle,S.R 9876512345
+
+        Input to the program:
+        Enter names and telephone numbers
+        sharma anil sudhir 1234
+        verma mona abhay 9876
+        garg sona abhi 7654
+        modak tinu pintu 9870
+        shree sahab sumit 8765
+        Output of the program:
+        Customer list
+        garg,s.a 7654
+        modak,t.p 9870
+        sharma,a.s 1234
+        shree,s.s 8765
+        verma,m.a 9876
+
+
+8. Write a program to find and replace a pattern (series of characters) in a sentence.
+Sentence and pattern are taken from the user.
+
+
+9. WAP to find and remove the duplicate occurrences of an element in
+an array and display the modified array.
+
+
+10. Write a program to find an integer using following algorithms:
+    a. Linear Search
+    b. Binary Search (Take the sorted list as input)
+
+
+11. Create an array of 10 elements using malloc functions. Further, read the array
+from user and print the array.
+
+
+12. Write a program for matrix multiplication and matrix addition.
+
+
+13. Write a program to perform various operations on 3D array i.e. Insertion,
+Deletion and Searching of element.
+
+
+14. WAP to check matrix is Sparse matrix or not.
